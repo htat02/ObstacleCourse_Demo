@@ -32,7 +32,7 @@ public class Dropper : MonoBehaviour
             rigidbody.useGravity = true;
         }
 
-        if (Time.time > TimetoWait + 1.8) {
+        if (Time.time > TimetoWait) {
             collider.enabled = true;
         }
 

@@ -356,6 +356,7 @@
 "Assets/Scripts/Dropper.cs"
 "Assets/Scripts/Movement.cs"
 "Assets/Scripts/ObjectHit.cs"
+"Assets/Scripts/Roller.cs"
 "Assets/Scripts/Score.cs"
 "Assets/Scripts/Spinning.cs"
 -langversion:9.0
